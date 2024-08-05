@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Pittalwala</h1>
 <h3 align="center">A Aspiring Backend Engineer from India</h3>
+[![](https://visitcount.itsvg.in/api?id=AryaPittalwala&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryapittalwala&label=Profile%20views&color=0e75b6&style=flat" alt="aryapittalwala" /> </p>
 
