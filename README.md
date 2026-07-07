@@ -1,5 +1,5 @@
 # 💫 About Me:
-<H2>  An Aspiring Backend Engineer<br>🌱 I’m currently learning Spring Boot And REST APIs<br>⚡ Fun fact - I like to think I'm Funny(I'm not)</H2>
+<H2>  An Aspiring AI Engineer<br>🌱 I’m currently learning Langchain And MCPs<br>⚡ Fun fact - I like to think I'm Funny(I'm not)</H2>
 
 
 ## 🌐 Socials:
